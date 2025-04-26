@@ -1,4 +1,4 @@
-rootProject.name = "FxApps-Template-KMP"
+rootProject.name = "FernanApps-Template-KotlinMultiplatform"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
